@@ -1,0 +1,1037 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/School/digital logic/homework 3
+Eand_gate
+Z0 w1520298184
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/School/digital logic/Midterm
+Z4 8D:/School/digital logic/homework 3/and_gate.vhd
+Z5 FD:/School/digital logic/homework 3/and_gate.vhd
+l0
+L4
+VEW5OBE1FR4VfcM9ECLg<J1
+!s100 9V9Q8Fe6ce;hkR09DU`6@0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1521432850
+!i10b 1
+Z8 !s108 1521432850.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/School/digital logic/homework 3/and_gate.vhd|
+Z10 !s107 D:/School/digital logic/homework 3/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aand_arch
+R1
+R2
+DEx4 work 8 and_gate 0 22 EW5OBE1FR4VfcM9ECLg<J1
+l12
+L11
+V5K0UbmzB4l[jDAjUPH_iI1
+!s100 e4MWCo;?bT@U;H0i;aH:R1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecomp8bit
+Z13 w1521598710
+Z14 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z15 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R1
+R2
+Z16 dC:/Users/pahlza/Desktop/School Stuff/Midterm
+Z17 8C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit.vhd
+Z18 FC:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit.vhd
+l0
+L5
+Vd;M<S:0ROZ5K>?8nZVIgP0
+!s100 ISnCDdLWYF2iTG9CJ3PhP3
+R6
+32
+Z19 !s110 1521602296
+!i10b 1
+Z20 !s108 1521602296.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit.vhd|
+Z22 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 8 comp8bit 0 22 d;M<S:0ROZ5K>?8nZVIgP0
+l13
+L12
+V`;Wm]:zZY]_liGH@80X2:1
+!s100 ?jNk=MN8PZ84C`HB>X3X62
+R6
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12
+Ecomp8bit_test
+Z23 w1521322096
+R14
+R15
+R1
+R2
+R16
+Z24 8C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit_test.vhd
+Z25 FC:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit_test.vhd
+l0
+L5
+Vkk;JDi?V6DNeAbSN?VHae3
+!s100 `_eX?3d`BFl4l>?:B37oa2
+R6
+32
+R19
+!i10b 1
+R20
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit_test.vhd|
+Z27 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 13 comp8bit_test 0 22 kk;JDi?V6DNeAbSN?VHae3
+l24
+L8
+VKcl8S=nM]X_iO`ITcE;lD1
+!s100 YjIKa[248mYdPLaYcKHPP3
+R6
+32
+R19
+!i10b 1
+R20
+R26
+R27
+!i113 1
+R11
+R12
+Ecomparator8bit
+Z28 w1521319070
+Z29 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z30 8D:/School/digital logic/Midterm/comp8bit.vhd
+Z31 FD:/School/digital logic/Midterm/comp8bit.vhd
+l0
+L5
+V;=QzQ`G<gk38aY`lMUT[P0
+!s100 Y0OM6mzEO5S@87inN8z2J0
+R6
+32
+Z32 !s110 1521320078
+!i10b 1
+Z33 !s108 1521320077.000000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/School/digital logic/Midterm/comp8bit.vhd|
+Z35 !s107 D:/School/digital logic/Midterm/comp8bit.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R29
+R1
+R2
+DEx4 work 14 comparator8bit 0 22 ;=QzQ`G<gk38aY`lMUT[P0
+l14
+L13
+VBAP8`hUo`5__]UPCb]J1H3
+!s100 PoF2N>:W19kE1K3>ljEnJ3
+R6
+32
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R11
+R12
+Ecounter5bit
+Z36 w1521599289
+R14
+R15
+R1
+R2
+R16
+Z37 8C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit.vhd
+Z38 FC:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit.vhd
+l0
+L5
+V3E[CcAXVgiNBfOnhS?]@K2
+!s100 PHBWHV1f^Y=bkO22Y:UZB1
+R6
+32
+R19
+!i10b 1
+R20
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit.vhd|
+Z40 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 11 counter5bit 0 22 3E[CcAXVgiNBfOnhS?]@K2
+l17
+L12
+VQ`CH9O][3eC1Yf8?`i>?M1
+!s100 1g6@65_EF8BT@2nH0EZCG1
+R6
+32
+R19
+!i10b 1
+R20
+R39
+R40
+!i113 1
+R11
+R12
+Ecounter5bit_test
+Z41 w1521433660
+R14
+R15
+R1
+R2
+R16
+Z42 8C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit_test.vhd
+Z43 FC:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit_test.vhd
+l0
+L5
+VdW;U2S?j04D:lTNZ5OVjS1
+!s100 O2NP0d29n^XGm]EB<kZ7]2
+R6
+32
+R19
+!i10b 1
+R20
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit_test.vhd|
+Z45 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 16 counter5bit_test 0 22 dW;U2S?j04D:lTNZ5OVjS1
+l25
+L8
+VYF3d8gk=]LBAc8N4Jij]J3
+!s100 C:;<WXfRKFD6KUNAlgEB>3
+R6
+32
+R19
+!i10b 1
+R20
+R44
+R45
+!i113 1
+R11
+R12
+Ecounter8bit
+Z46 w1521433291
+R14
+R15
+R1
+R2
+R16
+Z47 8C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit.vhd
+Z48 FC:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit.vhd
+l0
+L5
+V:QI6;Bm4962iD[QNGfXXl0
+!s100 <WfY`9T0e;k8HQHfTcY=<0
+R6
+32
+Z49 !s110 1521602295
+!i10b 1
+Z50 !s108 1521602295.000000
+Z51 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit.vhd|
+Z52 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 11 counter8bit 0 22 :QI6;Bm4962iD[QNGfXXl0
+l17
+L12
+VOc1WlW[82nIk1FQUNO;Y73
+!s100 R12e7NXzNYGk6lUn_j6:U3
+R6
+32
+R49
+!i10b 1
+R50
+R51
+R52
+!i113 1
+R11
+R12
+Ecounter8bit_test
+Z53 w1521432845
+R14
+R15
+R1
+R2
+R16
+Z54 8C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit_test.vhd
+Z55 FC:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit_test.vhd
+l0
+L5
+V8`44iiIZ2C5eDX>3W<;GD2
+!s100 C]I^j_RdZzMIZ6EZM3C6>0
+R6
+32
+Z56 !s110 1521602294
+!i10b 1
+Z57 !s108 1521602294.000000
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit_test.vhd|
+Z59 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 16 counter8bit_test 0 22 8`44iiIZ2C5eDX>3W<;GD2
+l26
+L8
+V]32laC7Kjgac6[W:8YiiE3
+!s100 fPRDN9nhAJFe57PTOo>B:0
+R6
+32
+R56
+!i10b 1
+R57
+R58
+R59
+!i113 1
+R11
+R12
+Edowncounter10bit
+Z60 w1521563154
+R14
+R15
+R1
+R2
+R16
+Z61 8C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter.vhd
+Z62 FC:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter.vhd
+l0
+L5
+VczNh9fW0bLMTR1HbT]CgR3
+!s100 0H`0g]i__dPP08dTQ8hcM3
+R6
+32
+R56
+!i10b 1
+R57
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter.vhd|
+Z64 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 16 downcounter10bit 0 22 czNh9fW0bLMTR1HbT]CgR3
+l17
+L12
+VJO9G[_1e[PA`8dGlTC4_l3
+!s100 z>K[76IFggHAIl?mU3SzQ3
+R6
+32
+R56
+!i10b 1
+R57
+R63
+R64
+!i113 1
+R11
+R12
+Edowncounter10bit_test
+Z65 w1521602691
+R14
+R15
+R1
+R2
+R16
+Z66 8C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter_test.vhd
+Z67 FC:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter_test.vhd
+l0
+L5
+VhXz8jaCZTL:bJOnSif69Z0
+!s100 Q7_XSmlAeA@[8PULjddG^1
+R6
+32
+Z68 !s110 1521602695
+!i10b 1
+Z69 !s108 1521602694.000000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter_test.vhd|
+Z71 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 21 downcounter10bit_test 0 22 hXz8jaCZTL:bJOnSif69Z0
+l26
+L8
+V=SgaYT:oZd0nb]65P]mzg0
+!s100 :DYVo_Ze[96BRa3NPJnc^3
+R6
+32
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 1
+R11
+R12
+Ememory8bit
+Z72 w1521431827
+R14
+R15
+R1
+R2
+R16
+Z73 8C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit.vhd
+Z74 FC:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit.vhd
+l0
+L5
+VlMSR]3G^RV>FQN1NQneH?1
+!s100 M>zYR;7Cjf4;I:ee^ok9D2
+R6
+32
+R49
+!i10b 1
+R50
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit.vhd|
+Z76 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 10 memory8bit 0 22 lMSR]3G^RV>FQN1NQneH?1
+l15
+L12
+VS0?Q9e9<0ME<?mPn`JUA_0
+!s100 =OD@GU82`_hGmfUadT^k]2
+R6
+32
+R49
+!i10b 1
+R50
+R75
+R76
+!i113 1
+R11
+R12
+Ememory8bit_test
+Z77 w1521432846
+R14
+R15
+R1
+R2
+R16
+Z78 8C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit_test.vhd
+Z79 FC:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit_test.vhd
+l0
+L5
+V0C=;?P9o4R^zOl=V:fKQN1
+!s100 OFI]hCkZ=oKa5:[]e;>Sf0
+R6
+32
+R49
+!i10b 1
+R50
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit_test.vhd|
+Z81 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 15 memory8bit_test 0 22 0C=;?P9o4R^zOl=V:fKQN1
+l23
+L8
+Va]=Gk49U?5Q1UkRZOQIbh0
+!s100 OdNSe[`=K<`g1H9eb;RHo3
+R6
+32
+R49
+!i10b 1
+R50
+R80
+R81
+!i113 1
+R11
+R12
+Ememory_test
+Z82 w1521427183
+R14
+R15
+R1
+R2
+R3
+Z83 8D:/School/digital logic/Midterm/memory8bit_test.vhd
+Z84 FD:/School/digital logic/Midterm/memory8bit_test.vhd
+l0
+L5
+VkYg6?C9R;`AlGoLnEg_3f0
+!s100 kT9J0aO0AgA?9gQA25YMj0
+R6
+32
+Z85 !s110 1521427312
+!i10b 1
+Z86 !s108 1521427312.000000
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/School/digital logic/Midterm/memory8bit_test.vhd|
+Z88 !s107 D:/School/digital logic/Midterm/memory8bit_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 11 memory_test 0 22 kYg6?C9R;`AlGoLnEg_3f0
+l23
+L8
+V:ogji=1aOWA0m841nLdWO2
+!s100 lEjK9;:][UO>kN1[I11FI3
+R6
+32
+R85
+!i10b 1
+R86
+R87
+R88
+!i113 1
+R11
+R12
+Eproblem1
+Z89 w1521601185
+R14
+R15
+R1
+R2
+R16
+Z90 8C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem1.vhd
+Z91 FC:/Users/pahlza/Desktop/School Stuff/Midterm/Problem1.vhd
+l0
+L5
+VMRHa=aChG]zP[;Mke@MIl2
+!s100 N8ThZ`k9NP3A_aanFM8690
+R6
+32
+R19
+!i10b 1
+R20
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem1.vhd|
+Z93 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem1.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 8 problem1 0 22 MRHa=aChG]zP[;Mke@MIl2
+l37
+L13
+VCAZzlZiogJUVJ^Qk8<_[90
+!s100 [ml<5KTVSo<Y;af2`oeY33
+R6
+32
+R19
+!i10b 1
+R20
+R92
+R93
+!i113 1
+R11
+R12
+Eproblem1_test
+Z94 w1521600989
+R14
+R15
+R1
+R2
+R16
+Z95 8C:/Users/pahlza/Desktop/School Stuff/Midterm/problem1_test.vhd
+Z96 FC:/Users/pahlza/Desktop/School Stuff/Midterm/problem1_test.vhd
+l0
+L5
+Vkn1mE_Hac@RkN7hZBb?>Q0
+!s100 h5leM6IKQULReQH>eYVk33
+R6
+32
+R49
+!i10b 1
+R50
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/problem1_test.vhd|
+Z98 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/problem1_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 13 problem1_test 0 22 kn1mE_Hac@RkN7hZBb?>Q0
+l27
+L8
+V4d9dYdN2Clhj8l:M3===_2
+!s100 ]ONT;fk5gkaaQe0k489j42
+R6
+32
+R49
+!i10b 1
+R50
+R97
+R98
+!i113 1
+R11
+R12
+Eproblem2
+w1521421157
+R14
+R15
+R1
+R2
+R3
+Z99 8D:/School/digital logic/Midterm/Problem_2.vhd
+Z100 FD:/School/digital logic/Midterm/Problem_2.vhd
+l0
+L6
+Vi<=WY3Il@Po0bT@SW4T=B2
+!s100 Q<b59B45BD69WWfOLDged0
+R6
+32
+!s110 1521421219
+!i10b 1
+!s108 1521421219.000000
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/School/digital logic/Midterm/Problem_2.vhd|
+Z102 !s107 D:/School/digital logic/Midterm/Problem_2.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+w1521421252
+R14
+R15
+R1
+R2
+DEx4 work 8 problem2 0 22 i<=WY3Il@Po0bT@SW4T=B2
+l49
+L18
+VQaTWU;E`z?YZGC1h23f7F3
+!s100 I:VJkGWCf;56zjWX8DS@I2
+R6
+32
+!s110 1521421257
+!i10b 1
+!s108 1521421257.000000
+R101
+R102
+!i113 1
+R11
+R12
+Eproblem2_test
+Z103 w1521425426
+R14
+R15
+R1
+R2
+R16
+Z104 8C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2_test.vhd
+Z105 FC:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2_test.vhd
+l0
+L6
+VPZHTIB0YNhI@[]7K`Q<Pi2
+!s100 JJ@f=5YUeV[F7QIePXTUf2
+R6
+32
+R49
+!i10b 1
+R50
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2_test.vhd|
+Z107 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 13 problem2_test 0 22 PZHTIB0YNhI@[]7K`Q<Pi2
+l29
+L9
+VY1S0YGGg5`Gl350g2@T4i1
+!s100 V7lEYkzY3c=ODf]W7OkD91
+R6
+32
+R49
+!i10b 1
+R50
+R106
+R107
+!i113 1
+R11
+R12
+Eproblem3
+Z108 w1521590960
+R14
+R15
+R1
+R2
+R16
+Z109 8C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem3.vhd
+Z110 FC:/Users/pahlza/Desktop/School Stuff/Midterm/Problem3.vhd
+l0
+L5
+VQ8odXMj6lG0@TYzzN=KN73
+!s100 LVO5^VRE7=DXOgTFdb;lL3
+R6
+32
+Z111 !s110 1521602293
+!i10b 1
+Z112 !s108 1521602293.000000
+Z113 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem3.vhd|
+Z114 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem3.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 8 problem3 0 22 Q8odXMj6lG0@TYzzN=KN73
+l51
+L18
+Va2@^`hD4H6CZjo>dm7zbE1
+!s100 0G2j<KGX=FM1lgLP8Tiai3
+R6
+32
+R111
+!i10b 1
+R112
+R113
+R114
+!i113 1
+R11
+R12
+Eproblem3_test
+Z115 w1521587239
+R14
+R15
+R1
+R2
+R16
+Z116 8C:/Users/pahlza/Desktop/School Stuff/Midterm/problem3_test.vhd
+Z117 FC:/Users/pahlza/Desktop/School Stuff/Midterm/problem3_test.vhd
+l0
+L5
+VS8E<0e]Be2U79K08Y`ad61
+!s100 PE>2:TQ0c>M@ALB]H1N^]2
+R6
+32
+Z118 !s110 1521602297
+!i10b 1
+Z119 !s108 1521602297.000000
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/problem3_test.vhd|
+Z121 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/problem3_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 13 problem3_test 0 22 S8E<0e]Be2U79K08Y`ad61
+l43
+L8
+VRQSjn`JO9g]9n1YNnnLm^3
+!s100 DfF5KUDPU^3WGezAQaHPg0
+R6
+32
+R118
+!i10b 1
+R119
+R120
+R121
+!i113 1
+R11
+R12
+Eproblem_2
+Z122 w1521432085
+R14
+R15
+R1
+R2
+R16
+Z123 8C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2.vhd
+Z124 FC:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2.vhd
+l0
+L6
+V18m0Gm<_bD]Td7G4Z2>G_1
+!s100 9R8hC?jm1h^?T2MM6]jb62
+R6
+32
+R49
+!i10b 1
+R50
+Z125 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2.vhd|
+Z126 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 9 problem_2 0 22 18m0Gm<_bD]Td7G4Z2>G_1
+l47
+L16
+VTnkaRRl9P[_m7?1in1K1=2
+!s100 BUANZUe_Mcn`m<ghK>[PU0
+R6
+32
+R49
+!i10b 1
+R50
+R125
+R126
+!i113 1
+R11
+R12
+Eupcounter10bit
+Z127 w1521578579
+R14
+R15
+R1
+R2
+R16
+Z128 8C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter.vhd
+Z129 FC:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter.vhd
+l0
+L5
+VD[dTKVn]RHPUXV330Q0J[1
+!s100 lo2zhbB;2celX>eLkGU7g0
+R6
+32
+R56
+!i10b 1
+R57
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter.vhd|
+Z131 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 14 upcounter10bit 0 22 D[dTKVn]RHPUXV330Q0J[1
+l18
+L13
+VBBDI@c_]9fQzZ2KF9MRA_2
+!s100 fbzc<DlToUD7Q06L1Nd832
+R6
+32
+R56
+!i10b 1
+R57
+R130
+R131
+!i113 1
+R11
+R12
+Eupcounter10bit_test
+Z132 w1521602815
+R14
+R15
+R1
+R2
+R16
+Z133 8C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter_test.vhd
+Z134 FC:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter_test.vhd
+l0
+L5
+VY:EZRCK1l45ThDz65@7`k2
+!s100 G5H02n;mH7kl21]OgS]@n0
+R6
+32
+Z135 !s110 1521602817
+!i10b 1
+Z136 !s108 1521602817.000000
+Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter_test.vhd|
+Z138 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 19 upcounter10bit_test 0 22 Y:EZRCK1l45ThDz65@7`k2
+l27
+L8
+V>4EkQXzPaiTaUIbaDbcPk2
+!s100 PiMTQl]:II]9ozbCTN6Sh0
+R6
+32
+R135
+!i10b 1
+R136
+R137
+R138
+!i113 1
+R11
+R12
+Ezerocounter8bit
+Z139 w1521603783
+R14
+R15
+R1
+R2
+R16
+Z140 8C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter.vhd
+Z141 FC:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter.vhd
+l0
+L5
+Vg_AioTZUAQ@bX1SkY]jBX0
+!s100 Q^TJ4]nk:;74eWa`n;n>K2
+R6
+32
+Z142 !s110 1521603785
+!i10b 1
+Z143 !s108 1521603785.000000
+Z144 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter.vhd|
+Z145 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R14
+R15
+R1
+R2
+DEx4 work 15 zerocounter8bit 0 22 g_AioTZUAQ@bX1SkY]jBX0
+l19
+L14
+Z146 V=a``3]K1O?009EGjjJjf>3
+Z147 !s100 bAZ>VFPYhK:G]R3T4JHDz0
+R6
+32
+R142
+!i10b 1
+R143
+R144
+R145
+!i113 1
+R11
+R12
+Ezerocounter8bit_test
+Z148 w1521603382
+R14
+R15
+R1
+R2
+R16
+Z149 8C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter_test.vhd
+Z150 FC:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter_test.vhd
+l0
+L5
+Vbf^jSo_>LleMIWC`:f[Xg0
+!s100 i7<d<njR4n^SiR[FGXd<@1
+R6
+32
+Z151 !s110 1521603384
+!i10b 1
+Z152 !s108 1521603383.000000
+Z153 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter_test.vhd|
+Z154 !s107 C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter_test.vhd|
+!i113 1
+R11
+R12
+Atest
+R14
+R15
+R1
+R2
+DEx4 work 20 zerocounter8bit_test 0 22 bf^jSo_>LleMIWC`:f[Xg0
+l29
+L8
+VOMY2V@Z?b::aOlV;NJPMQ2
+!s100 g]dcI9T:`e?FQJgWa>;1o1
+R6
+32
+R151
+!i10b 1
+R152
+R153
+R154
+!i113 1
+R11
+R12

@@ -1,0 +1,201 @@
+{C:/Users/pahlza/Desktop/School Stuff/Midterm/problem3_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/problem3_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem3_test
+-- Compiling architecture test of problem3_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem_2
+-- Compiling architecture behavioral of problem_2
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem3.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem3.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem3
+-- Compiling architecture behavioral of problem3
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity upcounter10bit_test
+-- Compiling architecture test of upcounter10bit_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity zerocounter8bit_test
+-- Compiling architecture test of zerocounter8bit_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity downcounter10bit_test
+-- Compiling architecture test of downcounter10bit_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter8bit
+-- Compiling architecture behavioral of counter8bit
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory8bit_test
+-- Compiling architecture test of memory8bit_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/zeroCounter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity zerocounter8bit
+-- Compiling architecture behavioral of zerocounter8bit
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/memory8bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory8bit
+-- Compiling architecture behavioral of memory8bit
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/downCounter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity downcounter10bit
+-- Compiling architecture behavioral of downcounter10bit
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem2_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem2_test
+-- Compiling architecture test of problem2_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter5bit_test
+-- Compiling architecture test of counter5bit_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/counter5bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter5bit
+-- Compiling architecture behavioral of counter5bit
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/upCounter.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity upcounter10bit
+-- Compiling architecture behavioral of upcounter10bit
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comp8bit_test
+-- Compiling architecture test of comp8bit_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/counter8bit_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter8bit_test
+-- Compiling architecture test of counter8bit_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/comp8bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comp8bit
+-- Compiling architecture Behavioral of comp8bit
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/problem1_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/problem1_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem1_test
+-- Compiling architecture test of problem1_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Midterm/Problem1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem1
+-- Compiling architecture behavioral of problem1
+
+} {} {}}

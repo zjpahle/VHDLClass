@@ -1,0 +1,330 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.1
+Eand_gate
+Z0 w1520265372
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3
+Z4 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/and_gate.vhd
+Z5 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/and_gate.vhd
+l0
+L4
+VEW5OBE1FR4VfcM9ECLg<J1
+!s100 9V9Q8Fe6ce;hkR09DU`6@0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1520276864
+!i10b 1
+Z8 !s108 1520276864.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/and_gate.vhd|
+Z10 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Aand_arch
+R1
+R2
+DEx4 work 8 and_gate 0 22 EW5OBE1FR4VfcM9ECLg<J1
+l12
+L11
+V5K0UbmzB4l[jDAjUPH_iI1
+!s100 e4MWCo;?bT@U;H0i;aH:R1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eand_gate_tb
+Z13 w1520266349
+R1
+R2
+R3
+Z14 8C:\Users\pahlza\Desktop\School Stuff\homework 3\homework 3\and_gate_tb
+Z15 FC:\Users\pahlza\Desktop\School Stuff\homework 3\homework 3\and_gate_tb
+l0
+L4
+V8PR`TVBJ1DMXW[CXo_0MS1
+!s100 9SASH?ZdNXc5<eK`=d0Y33
+R6
+32
+Z16 !s110 1520276865
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\pahlza\Desktop\School Stuff\homework 3\homework 3\and_gate_tb|
+Z18 !s107 C:\Users\pahlza\Desktop\School Stuff\homework 3\homework 3\and_gate_tb|
+!i113 1
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 11 and_gate_tb 0 22 8PR`TVBJ1DMXW[CXo_0MS1
+l19
+L7
+Vm5T3iCXIK=PWgQ;7;KiKY3
+!s100 O4U=m?:0`70LgR[Ve12TC3
+R6
+32
+R16
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Ebin_adder
+Z19 w1520254909
+R1
+R2
+Z20 dD:/School/digital logic/homework 3
+Z21 8D:\School\digital logic\homework 3\HW3.vhd
+Z22 FD:\School\digital logic\homework 3\HW3.vhd
+l0
+L33
+Vn^6?z7>9dF<kilWK;_bM63
+!s100 dD=IjAB6[BBf[aaVDUANH3
+R6
+32
+Z23 !s110 1520254911
+!i10b 1
+Z24 !s108 1520254911.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\School\digital logic\homework 3\HW3.vhd|
+Z26 !s107 D:\School\digital logic\homework 3\HW3.vhd|
+!i113 1
+R11
+R12
+Ecounter4bit
+R19
+R1
+R2
+R20
+R21
+R22
+l0
+L63
+VdC:?9QFW>I@2C1HKnhc`h1
+!s100 W?_lZgzFQe0i93da:GPIN1
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Edelay1
+R19
+R1
+R2
+R20
+R21
+R22
+l0
+L53
+VBm279JPiFRVa[l_Pa^_RY3
+!s100 4@@[DA;@LC6Qg_S:VDl:=3
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Edemux8to4
+R19
+R1
+R2
+R20
+R21
+R22
+l0
+L43
+VTXjm<:c<DD5JSFWDIf^bo2
+!s100 fCIXRJ>n>fM0L=bnFZJm40
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Ehw3
+Z27 w1520255969
+R1
+R2
+R3
+Z28 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd
+Z29 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd
+l0
+L4
+VU?UBjij<EcVnoQZnBeU@A1
+!s100 Nnl_A5PGCgRX@ODWmV<mL3
+R6
+32
+Z30 !s110 1520277383
+!i10b 1
+Z31 !s108 1520277383.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd|
+Z33 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 3 hw3 0 22 U?UBjij<EcVnoQZnBeU@A1
+l20
+L12
+VJJIZg<Z6>4lcZ;aR;GGA81
+!s100 mDBFjoMHmoQdR@c68D^A:2
+R6
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R11
+R12
+Eones_sum
+Z34 w1520273333
+Z35 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z36 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd
+Z37 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd
+l0
+L5
+VZhTND=iL9IB75kb1ij@fi3
+!s100 5zlgORgJh9ohUSY0@5I5f3
+R6
+32
+R16
+!i10b 1
+Z38 !s108 1520276865.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd|
+Z40 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R35
+R1
+R2
+DEx4 work 8 ones_sum 0 22 ZhTND=iL9IB75kb1ij@fi3
+l12
+L10
+V7YYgPCbn0CWzeLWO14oO:2
+!s100 SFMn6i53OniZoO8>PhSGY0
+R6
+32
+R16
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Eones_sum_tb
+Z41 w1520277023
+R1
+R2
+R3
+Z42 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd
+Z43 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd
+l0
+L4
+V]nS;nS<C><6K]SHW6dc^=2
+!s100 ^^KOYF[m=O[Hng?FN>le@2
+R6
+32
+Z44 !s110 1520277035
+!i10b 1
+Z45 !s108 1520277035.000000
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd|
+Z47 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd|
+!i113 1
+R11
+R12
+Atest
+R1
+R2
+DEx4 work 11 ones_sum_tb 0 22 ]nS;nS<C><6K]SHW6dc^=2
+l17
+L7
+V3MFlLJ^<oVOBCYl5nI^8A2
+!s100 @CJB1iBbPDF_JI;FiN0]@2
+R6
+32
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R11
+R12
+Eor_gate
+Z48 w1520277363
+R1
+R2
+R3
+Z49 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd
+Z50 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd
+l0
+L4
+V7nDB6bnj[:6Ze:Q?CQ4E_3
+!s100 2X:iYTK@_c3c=G0IYV7NX2
+R6
+32
+Z51 !s110 1520277397
+!i10b 1
+Z52 !s108 1520277397.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd|
+Z54 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 7 or_gate 0 22 7nDB6bnj[:6Ze:Q?CQ4E_3
+l12
+L11
+V71gDjPeLW==f8fa2dV4WP1
+!s100 T<kO7LcN=9kXVZ6l8_;F82
+R6
+32
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R11
+R12

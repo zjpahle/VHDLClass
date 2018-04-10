@@ -1,0 +1,113 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all;
+
+entity problem3 is
+port	(
+  	refClk, inSig, adjust 	: in  std_logic;
+	multFactor		: in  std_logic_vector (2 downto 0);
+	outSig, valid		: out std_logic := '0';
+	--test outputs--
+	upovf_test, zeroovf_test : out std_logic:= '0';
+	multFactorSig		 : out std_logic_vector (2 downto 0):= "000";
+	new_freq_test 		 : out std_logic_vector (7 downto 0):= "00000000";
+	old_freq_test 		 : out std_logic_vector (9 downto 0):= "0000000000"
+	);
+end problem3;
+
+architecture behavioral of problem3 is
+--Signals Declarations--
+	signal upovf, zeroovf, zout	: std_logic := '0';
+	signal multFactorcalc		: std_logic_vector (2 downto 0);
+	signal new_freq 		: std_logic_vector (7 downto 0);
+	signal old_freq 		: std_logic_vector (9 downto 0);
+
+
+--Component Instantiation--
+	component upcounter10bit is
+	port	(
+		rst, clk    	: in  std_logic;
+		ovf		: out std_logic;
+		cnt_out		: out std_logic_vector (9 downto 0)
+		);
+	end component upcounter10bit;
+
+	component downcounter10bit is
+	port	(
+		in1, rst, clk	: in  std_logic;
+		cnt_out		: out std_logic_vector (9 downto 0)
+		);
+	end component downcounter10bit;
+
+	component zerocounter8bit is
+	port	(
+		load		: in  std_logic_vector (7 downto 0);
+		clk, go		: in  std_logic;
+		zero	 	: out std_logic
+		);
+	end component zerocounter8bit;
+
+	--component => signal--
+	begin 
+	upcounter10bit1 : upcounter10bit
+	port map(
+		rst => upovf,
+		ovf => upovf,
+		clk => refClk
+		);
+
+	downcounter10bit1 : downcounter10bit
+	port map(
+		in1 	=> inSig,
+		clk 	=> refClk,
+		rst 	=> upovf,
+		cnt_out => old_freq
+		);
+
+	zerocounter8bit1 : zerocounter8bit
+	port map(
+		load	=> new_freq,
+		clk	=> refClk,
+		go	=> zeroovf,
+		zero	=> zeroovf
+		);
+
+--Begin Behavior Logic--
+	--Combinational--
+
+
+	--Sequential--
+	process(refClk) begin
+		if (multFactor < 2) then
+			multFactorcalc <= "010";
+		end if;
+		if (multFactor > 5) then
+			multFactorcalc <= "101";
+		else 
+			multFactorcalc <= multFactor;
+		end if;
+		new_freq <= "00000011";
+		--new_freq <= old_freq(7 downto 0);
+		--new_freq <= old_freq(0 to 8)/2*("00000")&multFactor;
+
+		--Up Counter Feedback--
+--		if (upovf = '1') then
+--			upovf <= '1';
+--		elsif (upovf = '0') then
+--			upovf <= '0';
+--		end if;
+		--Zero Counter Feedback and T FF--
+		if (zeroovf = '1') then
+			zout <= not zout;
+		end if;
+		outSig <= zout;
+
+		--Test Outputs--
+		upovf_test <= upovf;
+		zeroovf_test <= zeroovf;
+		multFactorSig <= multFactorcalc;
+		new_freq_test <= new_freq;
+		old_freq_test <= old_freq;
+	end process;
+
+end architecture behavioral;

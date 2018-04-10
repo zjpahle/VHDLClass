@@ -1,0 +1,54 @@
+{C:/Users/pahlza/Desktop/School Stuff/Homework 4/buff16bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Homework 4/buff16bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Compiling entity buff16bit
+-- Compiling architecture behavioral of buff16bit
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Homework 4/DOI_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Homework 4/DOI_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package MATH_REAL
+-- Compiling entity DOI_test
+-- Compiling architecture test of DOI_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Homework 4/controller_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Homework 4/controller_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity controller_test
+-- Compiling architecture test of controller_test
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Homework 4/DOI.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Homework 4/DOI.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity DOI
+-- Compiling architecture behavioral of DOI
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Homework 4/controller.vhd} {2 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Homework 4/controller.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity controller
+-- Compiling architecture behavioral of controller
+** Warning: C:/Users/pahlza/Desktop/School Stuff/Homework 4/controller.vhd(17): (vcom-1013) Initial value of "currAddr" depends on value of signal "strAddr".
+
+} {} {}}

@@ -1,0 +1,129 @@
+{D:/School/digital logic/Midterm/memory8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/memory8bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory8bit
+-- Compiling architecture behavioral of memory8bit
+
+} {} {}} {D:/School/digital logic/homework 3/and_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/homework 3/and_gate.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture and_arch of and_gate
+
+} {} {}} {D:/School/digital logic/Midterm/problem1_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/problem1_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem1_test
+-- Compiling architecture test of problem1_test
+
+} {} {}} {D:/School/digital logic/Midterm/counter5bit_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/counter5bit_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter5bit_test
+-- Compiling architecture test of counter5bit_test
+
+} {} {}} {D:/School/digital logic/Midterm/counter8bit_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/counter8bit_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter8bit_test
+-- Compiling architecture test of counter8bit_test
+
+} {} {}} {D:/School/digital logic/Midterm/comp8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/comp8bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comp8bit
+-- Compiling architecture Behavioral of comp8bit
+
+} {} {}} {D:/School/digital logic/Midterm/counter8bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/counter8bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter8bit
+-- Compiling architecture behavioral of counter8bit
+
+} {} {}} {D:/School/digital logic/Midterm/memory8bit_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/memory8bit_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory8bit_test
+-- Compiling architecture test of memory8bit_test
+
+} {} {}} {D:/School/digital logic/Midterm/Problem1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/Problem1.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem1
+-- Compiling architecture behavioral of problem1
+
+} {} {}} {D:/School/digital logic/Midterm/Problem_2.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/Problem_2.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem_2
+-- Compiling architecture behavioral of problem_2
+
+} {} {}} {D:/School/digital logic/Midterm/Problem2_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/Problem2_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity problem2_test
+-- Compiling architecture test of problem2_test
+
+} {} {}} {D:/School/digital logic/Midterm/counter5bit.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/counter5bit.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity counter5bit
+-- Compiling architecture behavioral of counter5bit
+
+} {} {}} {D:/School/digital logic/Midterm/comp8bit_test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/Midterm/comp8bit_test.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity comp8bit_test
+-- Compiling architecture test of comp8bit_test
+
+} {} {}}

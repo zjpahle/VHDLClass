@@ -1,0 +1,45 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all;
+
+entity downcounter10bit_test is
+end downcounter10bit_test;
+
+architecture test of downcounter10bit_test is
+--Constants Declarations--
+	constant clk_period : time := 15.6 ns;
+
+--Signals Declarations--
+	signal rst	: std_logic;
+	signal in1, clk	: std_logic := '0';
+	signal cnt_out	: std_logic_vector (9 downto 0);
+
+--Component Instantiation--
+	component downcounter10bit is
+	port	(
+		in1, rst, clk	: in std_logic;
+		cnt_out		: out std_logic_vector (9 downto 0)
+		);
+	end component downcounter10bit;
+
+	--component => signal--
+	begin 
+	downcounter10bit1 : downcounter10bit
+	port map(
+		rst	=> rst,
+		clk	=> clk,
+		in1	=> in1,
+		cnt_out => cnt_out
+		);
+
+--Begin Testing--
+	clk <= NOT clk after clk_period/2;
+	in1 <= NOT in1 after clk_period*10;
+	process begin
+		rst <= '1';
+		wait for clk_period;
+		rst <= '0';
+		wait for 100*clk_period;
+	end process;
+
+end architecture test;

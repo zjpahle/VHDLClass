@@ -1,0 +1,45 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all;
+
+entity upcounter10bit_test is
+end upcounter10bit_test;
+
+architecture test of upcounter10bit_test is
+--Constants Declarations--
+	constant clk_period : time := 15.6 ns;
+
+--Signals Declarations--
+	signal rst, ovf   : std_logic;
+	signal clk 	  : std_logic := '0';
+	signal cnt_out	  : std_logic_vector (9 downto 0);
+
+--Component Instantiation--
+	component upcounter10bit is
+	port	(
+		rst, clk    	: in  std_logic;
+		ovf    		: out std_logic;
+		cnt_out		: out std_logic_vector (9 downto 0)
+		);
+	end component upcounter10bit;
+
+	--component => signal--
+	begin 
+	upcounter10bit1 : upcounter10bit
+	port map(
+		rst	=> rst,
+		clk	=> clk,
+		ovf	=> ovf,
+		cnt_out => cnt_out
+		);
+
+--Begin Testing--
+	clk <= NOT clk after clk_period/2;
+	process begin
+	rst <= '1';
+	wait for clk_period;
+	rst <= '0';
+		wait for 2000*clk_period;
+	end process;
+
+end architecture test;
