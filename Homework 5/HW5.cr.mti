@@ -1,12 +1,4 @@
-{C:/Users/pahlza/Desktop/School Stuff/Homework 5/bit_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Homework 5/bit_multiplier.vhd}
-Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity bit_multiplier
--- Compiling architecture logical of bit_multiplier
-
-} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Homework 5/array_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Homework 5/array_multiplier.vhd}
+{C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -14,11 +6,29 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Compiling entity array_multiplier
 -- Compiling architecture iterative of array_multiplier
 
-} {} {}} {C:/Users/pahlza/Desktop/School Stuff/Homework 5/exp(x).vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/Homework 5/exp(x).vhd}
+} {} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
-** Error: C:/Users/pahlza/Desktop/School Stuff/Homework 5/exp(x).vhd(2): near "EOF": syntax error
+-- Compiling entity bit_multiplier
+-- Compiling architecture logical of bit_multiplier
 
-} {6.0 7.0} {}}
+} {} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity exp
+-- Compiling architecture main of exp
+** Error: C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd(17): near "process": (vcom-1576) expecting BEGIN.
+
+} {8.0 9.0} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity expEng
+** Error: C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd(7): near ")": (vcom-1576) expecting IDENTIFIER.
+
+} {7.0 8.0} {}}

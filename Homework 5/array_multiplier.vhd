@@ -4,15 +4,16 @@ use IEEE.std_logic_1164.all;
 entity array_multiplier is
   	generic (bitn : integer);
   	port    (
-		x, y : in std_logic_vector(bitn-1 downto 0);
-		z : out std_logic_vector(bitn-1 downto 0)
+		x, y 	: in  std_logic_vector(bitn-1 downto 0);
+		start	: in  std_logic;
+		z    	: out std_logic_vector(bitn-1 downto 0)
 		);
 end array_multiplier;
 
 architecture iterative of array_multiplier is
 	component bit_multiplier 
 	port   (
-		xi, yi, pi, ci : in std_logic; 
+		xi, yi, pi, ci : in  std_logic; 
 		xo, yo, po, co : out std_logic
 		);
 	end component;
@@ -22,7 +23,7 @@ architecture iterative of array_multiplier is
 
 	signal xv, yv, cv, pv : pair;
 	begin
-	
+
 	rows: for i in x'range generate
 	cols: for j in y'range generate
 	cell: bit_multiplier
@@ -48,4 +49,4 @@ architecture iterative of array_multiplier is
 		z(i) <= pv(i+1, 0);
 		z(i + n+1) <= pv(n+1, i+1);
 	end generate;
-end iterative; 
+end iterative;
