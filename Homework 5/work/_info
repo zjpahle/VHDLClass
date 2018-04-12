@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/Users/pahlza/Desktop/School Stuff/Homework 4
 Earray_multiplier
-Z0 w1523417412
+Z0 w1523496383
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 Z3 dC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5
@@ -17,13 +17,13 @@ Z4 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd
 Z5 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd
 l0
 L4
-V5Eg@0g=W0[ZX>^<416DBK0
-!s100 cGgcKcG0A_V3?J]2Pn=KO2
+VBM@WUB<[j;3NG09gH^OcQ1
+!s100 R`o@2KgX`bU;flNabZHjZ0
 Z6 OV;C;10.5b;63
 32
-Z7 !s110 1523417413
+Z7 !s110 1523497803
 !i10b 1
-Z8 !s108 1523417413.000000
+Z8 !s108 1523497803.000000
 Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd|
 Z10 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd|
 !i113 1
@@ -32,11 +32,11 @@ Z12 tExplicit 1 CvgOpt 0
 Aiterative
 R1
 R2
-DEx4 work 16 array_multiplier 0 22 5Eg@0g=W0[ZX>^<416DBK0
-l25
-L13
-VoHRcK=@1FZQ_z4X6VL]<U0
-!s100 3d;3?OH<Hk`3IeiJL]8FE3
+DEx4 work 16 array_multiplier 0 22 BM@WUB<[j;3NG09gH^OcQ1
+l26
+L14
+VZ77mhP`SfP:Q:86k]=]zo3
+!s100 VTg9]>M^Wnh8f`UckXh:33
 R6
 32
 R7
@@ -86,45 +86,93 @@ R19
 !i113 1
 R11
 R12
-Eexp
-w1523417422
+Ecounter_generic
+Z20 w1523501611
+Z21 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z22 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z23 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 R1
 R2
 R3
-8C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd
-FC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd
+Z24 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd
+Z25 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd
 l0
-L4
-VV;azC;1XYUDZ=TedP5Doz1
-!s100 9_hWLVA``Pni=QP?8BXBo3
+L6
+V8hD5U`f=UGCchX@gIO]j_2
+!s100 60Vn[LHZ<0z01?A@]i^C[1
 R6
 32
-Z20 !s110 1523491243
+Z26 !s110 1523501612
 !i10b 1
-Z21 !s108 1523491243.000000
-!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd|
-!s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd|
+Z27 !s108 1523501612.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd|
+Z29 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R22
+R23
+R1
+R2
+DEx4 work 15 counter_generic 0 22 8hD5U`f=UGCchX@gIO]j_2
+l15
+L14
+Vg0IhV3^e<GO5c[W@kVAnd0
+!s100 WJ[;<8ZUflQdS1M0l_;5d0
+R6
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
+Eexp
+w1523503377
+R21
+R22
+R23
+R1
+R2
+R3
+8C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd
+FC:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd
+l0
+L6
+V<aa=m2QMJ@]nZ_znigH6K3
+!s100 ^j9hWOd3dnl@F34ER>:9l1
+R6
+32
+Z30 !s110 1523503378
+!i10b 1
+Z31 !s108 1523503378.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd|
+!s107 C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd|
 !i113 1
 R11
 R12
 Eexpeng
-w1523491241
+w1523502861
 R1
 R2
 R3
-8C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd
-FC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd
+8C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd
+FC:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd
 l0
 L4
 VSiijOWC7o76[PgF;hlXD]3
 !s100 AkY6MTX:5CB_H>Yl1ZbHC3
 R6
 32
-R20
+R30
 !i10b 1
-R21
-!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd|
-!s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd|
+R31
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd|
+!s107 C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd|
 !i113 1
 R11
 R12

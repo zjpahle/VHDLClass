@@ -33,9 +33,14 @@ architecture behavior of expEng is
 	
 	begin
 		if(rising_edge(go)) then
-			zout<=zout;
+
 		else
 			zout <= '0';
 		end if
 	end process;
 end behavior;
+
+--	e = 1; a = 1;
+--	for(i = 1; i < n; i++)
+--		{a = a*x*(1/i);
+--		e = e + a;}
