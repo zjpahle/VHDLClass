@@ -1,0 +1,16 @@
+Fitter Status : Successful - Mon Feb 12 22:14:44 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : mooreDetect
+Top-level Entity Name : mooreseqdec
+Family : Cyclone 10 LP
+Device : 10CL010ZE144I8G
+Timing Models : Final
+Total logic elements : 10 / 10,320 ( < 1 % )
+    Total combinational functions : 10 / 10,320 ( < 1 % )
+    Dedicated logic registers : 8 / 10,320 ( < 1 % )
+Total registers : 8
+Total pins : 4 / 89 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

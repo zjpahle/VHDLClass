@@ -1,0 +1,11 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY mooreseqdec IS
+PORT ( clk, datain IN BIT; detect OUT BIT);
+END ENTITY mooreseqdec
+ARCHITECTURE compare OF mooreseqdec IS
+	Something something
+BEGIN
+Statement1;
+END ARCHITECTURE mooreseqdec

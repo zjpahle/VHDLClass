@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Feb 12 22:14:40 2018
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : mooreDetect
+Top-level Entity Name : mooreseqdec
+Family : Cyclone 10 LP
+Total logic elements : 10
+    Total combinational functions : 10
+    Dedicated logic registers : 8
+Total registers : 8
+Total pins : 4
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

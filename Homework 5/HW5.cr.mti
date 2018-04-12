@@ -1,18 +1,18 @@
-{C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd}
-Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity array_multiplier
--- Compiling architecture iterative of array_multiplier
-
-} {} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd}
+{C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity bit_multiplier
 -- Compiling architecture logical of bit_multiplier
+
+} {} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity array_multiplier
+-- Compiling architecture iterative of array_multiplier
 
 } {} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
@@ -29,6 +29,11 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity expEng
-** Error: C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd(7): near ")": (vcom-1576) expecting IDENTIFIER.
+-- Compiling architecture behavior of expEng
+** Error: C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd(36): Cannot read output "zout".
+	VHDL 2008 allows reading outputs.
+	This facility is enabled by compiling with -2008.
+** Error: C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd(38): Enumeration literal '0' is not of type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd(40): near "end": (vcom-1576) expecting ';'.
 
-} {7.0 8.0} {}}
+} {8.0 9.0 11.0 13.0} {}}

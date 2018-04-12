@@ -87,7 +87,7 @@ R19
 R11
 R12
 Eexp
-w1523417161
+w1523417422
 R1
 R2
 R3
@@ -99,11 +99,32 @@ VV;azC;1XYUDZ=TedP5Doz1
 !s100 9_hWLVA``Pni=QP?8BXBo3
 R6
 32
-R7
+Z20 !s110 1523491243
 !i10b 1
-R8
+Z21 !s108 1523491243.000000
 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd|
 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd|
+!i113 1
+R11
+R12
+Eexpeng
+w1523491241
+R1
+R2
+R3
+8C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd
+FC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd
+l0
+L4
+VSiijOWC7o76[PgF;hlXD]3
+!s100 AkY6MTX:5CB_H>Yl1ZbHC3
+R6
+32
+R20
+!i10b 1
+R21
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd|
+!s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd|
 !i113 1
 R11
 R12

@@ -1,12 +1,32 @@
-{C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3tb.vhd}
+{D:/School/digital logic/homework 3/and_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/homework 3/and_gate.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture and_arch of and_gate
+
+} {} {}} {D:/School/digital logic/homework 3/HW3tb.vhd} {0 {vcom -work work -2002 -explicit -stats=none {D:\School\digital logic\homework 3\HW3tb.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity and_gate_tb
 -- Compiling architecture test of and_gate_tb
+** Error: D:\School\digital logic\homework 3\HW3tb.vhd(14): near "end": (vcom-1576) expecting IDENTIFIER.
+** Error: D:\School\digital logic\homework 3\HW3tb.vhd(19): near ")": syntax error
+** Warning: D:\School\digital logic\homework 3\HW3tb.vhd(23): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+** Error: D:\School\digital logic\homework 3\HW3tb.vhd(24): VHDL Compiler exiting
 
-} {} {}} {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd}
+} {8.0 10.0 11.0 12.0} {}} {D:/School/digital logic/homework 3/or_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:/School/digital logic/homework 3/or_gate.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture behavior of or_gate
+
+} {} {}} {D:/School/digital logic/homework 3/ones_sum.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:\School\digital logic\homework 3\ones_sum.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -15,15 +35,7 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Compiling entity ones_sum
 -- Compiling architecture Behavioral of ones_sum
 
-} {} {}} {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd}
-Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity or_gate
--- Compiling architecture behavior of or_gate
-
-} {} {}} {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd}
+} {} {}} {D:/School/digital logic/homework 3/HW3.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:\School\digital logic\homework 3\HW3.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -31,7 +43,7 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Compiling entity HW3
 -- Compiling architecture BEHAVIOR of HW3
 
-} {} {}} {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd}
+} {} {}} {D:/School/digital logic/homework 3/ones_sum_tb.vhd} {1 {vcom -work work -2002 -explicit -stats=none {D:\School\digital logic\homework 3\ones_sum_tb.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO

@@ -9,23 +9,23 @@ z2
 cModel Technology
 dC:/intelFPGA_lite/17.1
 Eand_gate
-Z0 w1520265372
+Z0 w1520298184
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-Z3 dC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3
-Z4 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/and_gate.vhd
-Z5 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/and_gate.vhd
+Z3 dD:/School/digital logic/homework 3
+Z4 8D:/School/digital logic/homework 3/and_gate.vhd
+Z5 FD:/School/digital logic/homework 3/and_gate.vhd
 l0
 L4
 VEW5OBE1FR4VfcM9ECLg<J1
 !s100 9V9Q8Fe6ce;hkR09DU`6@0
 Z6 OV;C;10.5b;63
 32
-Z7 !s110 1520276864
+Z7 !s110 1520303488
 !i10b 1
-Z8 !s108 1520276864.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/and_gate.vhd|
-Z10 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/and_gate.vhd|
+Z8 !s108 1520303488.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/School/digital logic/homework 3/and_gate.vhd|
+Z10 !s107 D:/School/digital logic/homework 3/and_gate.vhd|
 !i113 1
 Z11 o-work work -2002 -explicit
 Z12 tExplicit 1 CvgOpt 0
@@ -48,23 +48,23 @@ R10
 R11
 R12
 Eand_gate_tb
-Z13 w1520266349
+Z13 w1520302549
 R1
 R2
 R3
-Z14 8C:\Users\pahlza\Desktop\School Stuff\homework 3\homework 3\and_gate_tb
-Z15 FC:\Users\pahlza\Desktop\School Stuff\homework 3\homework 3\and_gate_tb
+Z14 8D:\School\digital logic\homework 3\HW3tb.vhd
+Z15 FD:\School\digital logic\homework 3\HW3tb.vhd
 l0
 L4
 V8PR`TVBJ1DMXW[CXo_0MS1
 !s100 9SASH?ZdNXc5<eK`=d0Y33
 R6
 32
-Z16 !s110 1520276865
+R7
 !i10b 1
 R8
-Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\pahlza\Desktop\School Stuff\homework 3\homework 3\and_gate_tb|
-Z18 !s107 C:\Users\pahlza\Desktop\School Stuff\homework 3\homework 3\and_gate_tb|
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\School\digital logic\homework 3\HW3tb.vhd|
+Z17 !s107 D:\School\digital logic\homework 3\HW3tb.vhd|
 !i113 1
 R11
 R12
@@ -78,116 +78,116 @@ Vm5T3iCXIK=PWgQ;7;KiKY3
 !s100 O4U=m?:0`70LgR[Ve12TC3
 R6
 32
-R16
+!s110 1520302510
 !i10b 1
-R8
+!s108 1520302510.000000
+R16
 R17
-R18
 !i113 1
 R11
 R12
 Ebin_adder
-Z19 w1520254909
+Z18 w1520254909
 R1
 R2
-Z20 dD:/School/digital logic/homework 3
-Z21 8D:\School\digital logic\homework 3\HW3.vhd
-Z22 FD:\School\digital logic\homework 3\HW3.vhd
+R3
+Z19 8D:\School\digital logic\homework 3\HW3.vhd
+Z20 FD:\School\digital logic\homework 3\HW3.vhd
 l0
 L33
 Vn^6?z7>9dF<kilWK;_bM63
 !s100 dD=IjAB6[BBf[aaVDUANH3
 R6
 32
-Z23 !s110 1520254911
+Z21 !s110 1520254911
 !i10b 1
-Z24 !s108 1520254911.000000
-Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\School\digital logic\homework 3\HW3.vhd|
-Z26 !s107 D:\School\digital logic\homework 3\HW3.vhd|
+Z22 !s108 1520254911.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\School\digital logic\homework 3\HW3.vhd|
+Z24 !s107 D:\School\digital logic\homework 3\HW3.vhd|
 !i113 1
 R11
 R12
 Ecounter4bit
-R19
+R18
 R1
 R2
+R3
+R19
 R20
-R21
-R22
 l0
 L63
 VdC:?9QFW>I@2C1HKnhc`h1
 !s100 W?_lZgzFQe0i93da:GPIN1
 R6
 32
-R23
+R21
 !i10b 1
+R22
+R23
 R24
-R25
-R26
 !i113 1
 R11
 R12
 Edelay1
-R19
+R18
 R1
 R2
+R3
+R19
 R20
-R21
-R22
 l0
 L53
 VBm279JPiFRVa[l_Pa^_RY3
 !s100 4@@[DA;@LC6Qg_S:VDl:=3
 R6
 32
-R23
+R21
 !i10b 1
+R22
+R23
 R24
-R25
-R26
 !i113 1
 R11
 R12
 Edemux8to4
-R19
+R18
 R1
 R2
+R3
+R19
 R20
-R21
-R22
 l0
 L43
 VTXjm<:c<DD5JSFWDIf^bo2
 !s100 fCIXRJ>n>fM0L=bnFZJm40
 R6
 32
-R23
+R21
 !i10b 1
+R22
+R23
 R24
-R25
-R26
 !i113 1
 R11
 R12
 Ehw3
-Z27 w1520255969
+Z25 w1520298185
 R1
 R2
 R3
-Z28 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd
-Z29 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd
+R19
+R20
 l0
 L4
 VU?UBjij<EcVnoQZnBeU@A1
 !s100 Nnl_A5PGCgRX@ODWmV<mL3
 R6
 32
-Z30 !s110 1520277383
+R7
 !i10b 1
-Z31 !s108 1520277383.000000
-Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd|
-Z33 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/HW3.vhd|
+R8
+R23
+R24
 !i113 1
 R11
 R12
@@ -201,112 +201,112 @@ VJJIZg<Z6>4lcZ;aR;GGA81
 !s100 mDBFjoMHmoQdR@c68D^A:2
 R6
 32
-R30
+R7
 !i10b 1
-R31
-R32
-R33
+R8
+R23
+R24
 !i113 1
 R11
 R12
 Eones_sum
-Z34 w1520273333
-Z35 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z26 w1520302509
+Z27 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
 R1
 R2
 R3
-Z36 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd
-Z37 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd
+Z28 8D:\School\digital logic\homework 3\ones_sum.vhd
+Z29 FD:\School\digital logic\homework 3\ones_sum.vhd
 l0
 L5
-VZhTND=iL9IB75kb1ij@fi3
-!s100 5zlgORgJh9ohUSY0@5I5f3
+V]f[:k5M^X9b4i851K57Ge0
+!s100 HO9W^`fgQ@3E2ec5^C5NC0
 R6
 32
-R16
+R7
 !i10b 1
-Z38 !s108 1520276865.000000
-Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd|
-Z40 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum.vhd|
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\School\digital logic\homework 3\ones_sum.vhd|
+Z31 !s107 D:\School\digital logic\homework 3\ones_sum.vhd|
 !i113 1
 R11
 R12
 Abehavioral
-R35
+R27
 R1
 R2
-DEx4 work 8 ones_sum 0 22 ZhTND=iL9IB75kb1ij@fi3
-l12
-L10
-V7YYgPCbn0CWzeLWO14oO:2
-!s100 SFMn6i53OniZoO8>PhSGY0
+DEx4 work 8 ones_sum 0 22 ]f[:k5M^X9b4i851K57Ge0
+l14
+L13
+Ve=Cin[YSHo2a0^F;B3?ZP0
+!s100 5dz0lS:z@=Gcd0UG<VRP92
 R6
 32
-R16
+R7
 !i10b 1
-R38
-R39
-R40
+R8
+R30
+R31
 !i113 1
 R11
 R12
 Eones_sum_tb
-Z41 w1520277023
+Z32 w1520303874
 R1
 R2
 R3
-Z42 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd
-Z43 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd
+Z33 8D:\School\digital logic\homework 3\ones_sum_tb.vhd
+Z34 FD:\School\digital logic\homework 3\ones_sum_tb.vhd
 l0
 L4
 V]nS;nS<C><6K]SHW6dc^=2
 !s100 ^^KOYF[m=O[Hng?FN>le@2
 R6
 32
-Z44 !s110 1520277035
+Z35 !s110 1520303876
 !i10b 1
-Z45 !s108 1520277035.000000
-Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd|
-Z47 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/ones_sum_tb.vhd|
+Z36 !s108 1520303876.000000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\School\digital logic\homework 3\ones_sum_tb.vhd|
+Z38 !s107 D:\School\digital logic\homework 3\ones_sum_tb.vhd|
 !i113 1
 R11
 R12
 Atest
 R1
 R2
-DEx4 work 11 ones_sum_tb 0 22 ]nS;nS<C><6K]SHW6dc^=2
-l17
+Z39 DEx4 work 11 ones_sum_tb 0 22 ]nS;nS<C><6K]SHW6dc^=2
+l23
 L7
-V3MFlLJ^<oVOBCYl5nI^8A2
-!s100 @CJB1iBbPDF_JI;FiN0]@2
+VLiniOPzdiZ50oNeTlR@@^1
+!s100 `j1g3JdTNV?CH;i47M<CW1
 R6
 32
-R44
+R35
 !i10b 1
-R45
-R46
-R47
+R36
+R37
+R38
 !i113 1
 R11
 R12
 Eor_gate
-Z48 w1520277363
+R25
 R1
 R2
 R3
-Z49 8C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd
-Z50 FC:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd
+Z40 8D:/School/digital logic/homework 3/or_gate.vhd
+Z41 FD:/School/digital logic/homework 3/or_gate.vhd
 l0
 L4
 V7nDB6bnj[:6Ze:Q?CQ4E_3
 !s100 2X:iYTK@_c3c=G0IYV7NX2
 R6
 32
-Z51 !s110 1520277397
+R7
 !i10b 1
-Z52 !s108 1520277397.000000
-Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd|
-Z54 !s107 C:/Users/pahlza/Desktop/School Stuff/homework 3/homework 3/or_gate.vhd|
+R8
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/School/digital logic/homework 3/or_gate.vhd|
+Z43 !s107 D:/School/digital logic/homework 3/or_gate.vhd|
 !i113 1
 R11
 R12
@@ -320,11 +320,11 @@ V71gDjPeLW==f8fa2dV4WP1
 !s100 T<kO7LcN=9kXVZ6l8_;F82
 R6
 32
-R51
+R7
 !i10b 1
-R52
-R53
-R54
+R8
+R42
+R43
 !i113 1
 R11
 R12
