@@ -9,36 +9,36 @@ z2
 cModel Technology
 dC:/Users/pahlza/Desktop/School Stuff/Homework 4
 Earray_multiplier
-Z0 w1523496383
+Z0 w1523560143
 Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
 Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-Z3 dC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5
-Z4 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd
-Z5 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd
+Z3 dC:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5
+Z4 8C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/array_multiplier.vhd
+Z5 FC:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/array_multiplier.vhd
 l0
 L4
-VBM@WUB<[j;3NG09gH^OcQ1
+V_?GiOA@Vc]GQolz;Wg]m;0
 !s100 R`o@2KgX`bU;flNabZHjZ0
 Z6 OV;C;10.5b;63
-32
-Z7 !s110 1523497803
+33
+Z7 !s110 1523658563
 !i10b 1
-Z8 !s108 1523497803.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd|
-Z10 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd|
+Z8 !s108 1523658563.000000
+Z9 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/array_multiplier.vhd|
+Z10 !s107 C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/array_multiplier.vhd|
 !i113 1
-Z11 o-work work -2002 -explicit
+Z11 o-work work -2008 -explicit
 Z12 tExplicit 1 CvgOpt 0
 Aiterative
 R1
 R2
-DEx4 work 16 array_multiplier 0 22 BM@WUB<[j;3NG09gH^OcQ1
+DEx4 work 16 array_multiplier 0 22 _?GiOA@Vc]GQolz;Wg]m;0
 l26
 L14
-VZ77mhP`SfP:Q:86k]=]zo3
+VPPmYVl>A<dSR^Nfefkzm42
 !s100 VTg9]>M^Wnh8f`UckXh:33
 R6
-32
+33
 R7
 !i10b 1
 R8
@@ -48,36 +48,36 @@ R10
 R11
 R12
 Ebit_multiplier
-Z13 w1523402237
+Z13 w1523373693
 R1
 R2
 R3
-Z14 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd
-Z15 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd
+Z14 8C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd
+Z15 FC:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd
 l0
 L4
-VZ<UBQPNKSf_P@ilORmLlJ3
+Vld@FkWOL7E^4]OFO_MNmT1
 !s100 V8GIPWbz98V`^R3ZLU1e21
 R6
-32
-Z16 !s110 1523415769
+33
+Z16 !s110 1523658562
 !i10b 1
-Z17 !s108 1523415769.000000
-Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd|
-Z19 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd|
+Z17 !s108 1523658562.000000
+Z18 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd|
+Z19 !s107 C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd|
 !i113 1
 R11
 R12
 Alogical
 R1
 R2
-DEx4 work 14 bit_multiplier 0 22 Z<UBQPNKSf_P@ilORmLlJ3
+DEx4 work 14 bit_multiplier 0 22 ld@FkWOL7E^4]OFO_MNmT1
 l13
 L11
-Vo2THTR_gI=d6>8gS8jX0`0
+V01NB?1Xn>z?^B<Oecc=BQ3
 !s100 JcPR7An9mYYhM>Ebg=[JU3
 R6
-32
+33
 R16
 !i10b 1
 R17
@@ -87,92 +87,119 @@ R19
 R11
 R12
 Ecounter_generic
-Z20 w1523501611
-Z21 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
-Z22 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
-Z23 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R0
+Z20 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z21 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z22 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 R1
 R2
 R3
-Z24 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd
-Z25 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd
+Z23 8C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd
+Z24 FC:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd
 l0
 L6
-V8hD5U`f=UGCchX@gIO]j_2
+VO?j^KCbb8<n9Wc1O@SRCZ1
 !s100 60Vn[LHZ<0z01?A@]i^C[1
 R6
-32
-Z26 !s110 1523501612
+33
+R7
 !i10b 1
-Z27 !s108 1523501612.000000
-Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd|
-Z29 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd|
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd|
+Z26 !s107 C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd|
 !i113 1
 R11
 R12
 Abehavioral
+R20
 R21
 R22
-R23
 R1
 R2
-DEx4 work 15 counter_generic 0 22 8hD5U`f=UGCchX@gIO]j_2
+DEx4 work 15 counter_generic 0 22 O?j^KCbb8<n9Wc1O@SRCZ1
 l15
 L14
-Vg0IhV3^e<GO5c[W@kVAnd0
+VE:<_l8Gjlj?Wm3F0EFFXi3
 !s100 WJ[;<8ZUflQdS1M0l_;5d0
 R6
-32
-R26
+33
+R7
 !i10b 1
-R27
-R28
-R29
+R8
+R25
+R26
 !i113 1
 R11
 R12
 Eexp
-w1523503377
-R21
-R22
-R23
+Z27 w1523659403
+Z28 DPx4 ieee 17 float_generic_pkg 0 22 H9F2dgFW`hn13SQYDoo_R2
+Z29 DPx4 ieee 9 float_pkg 0 22 Z81QOO3@T3iYBM^RlCZFZ1
+Z30 DPx4 ieee 17 fixed_float_types 0 22 JoVc:0L4XeXcaE?c:FVe62
+R20
+Z31 DPx4 ieee 17 fixed_generic_pkg 0 22 `=cI_4Mf07Y0RE[dTgE=F2
+Z32 DPx4 ieee 9 fixed_pkg 0 22 6nURH]dUY5@T6S0eLDXJe2
 R1
 R2
 R3
-8C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd
-FC:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd
+Z33 8C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd
+Z34 FC:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd
 l0
 L6
-V<aa=m2QMJ@]nZ_znigH6K3
-!s100 ^j9hWOd3dnl@F34ER>:9l1
+VJ2U3hPT;h7MEBY`VkLKlI1
+!s100 =:GJGM<M63P5>:FnXdOEI3
 R6
-32
-Z30 !s110 1523503378
+33
+Z35 !s110 1523659405
 !i10b 1
-Z31 !s108 1523503378.000000
-!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd|
-!s107 C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd|
+Z36 !s108 1523659404.000000
+Z37 !s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd|
+Z38 !s107 C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd|
+!i113 1
+R11
+R12
+Amain
+R28
+R29
+R30
+R20
+R31
+R32
+R1
+R2
+Z39 DEx4 work 3 exp 0 22 J2U3hPT;h7MEBY`VkLKlI1
+l20
+L16
+Z40 ViiVmD:Ee9zfaIBCn^dUFO0
+Z41 !s100 8:aUd1^IoDV]CQf30]=e81
+R6
+33
+R35
+!i10b 1
+R36
+R37
+R38
 !i113 1
 R11
 R12
 Eexpeng
-w1523502861
+R0
 R1
 R2
 R3
-8C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd
-FC:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd
+8C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd
+FC:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd
 l0
 L4
-VSiijOWC7o76[PgF;hlXD]3
+V;E:?za_fHVJDV290AhIBc2
 !s100 AkY6MTX:5CB_H>Yl1ZbHC3
 R6
-32
-R30
+33
+R7
 !i10b 1
-R31
-!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd|
-!s107 C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd|
+R8
+!s90 -reportprogress|300|-work|work|-2008|-explicit|-stats=none|C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd|
+!s107 C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd|
 !i113 1
 R11
 R12

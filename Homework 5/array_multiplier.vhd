@@ -14,7 +14,7 @@ end array_multiplier;
 architecture iterative of array_multiplier is
 	component bit_multiplier 
 	port   (
-		xi, yi, pi, ci : in  std_logic; 
+		xi, yi, pi, ci : in  std_logic;
 		xo, yo, po, co : out std_logic
 		);
 	end component;

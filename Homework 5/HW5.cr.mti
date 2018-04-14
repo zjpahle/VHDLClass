@@ -1,12 +1,28 @@
-{C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/array_multiplier.vhd}
+{{C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/array_multiplier.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/array_multiplier.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 12:14:51 on Apr 12,2018
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/array_multiplier.vhd 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity array_multiplier
 -- Compiling architecture iterative of array_multiplier
+End time: 12:14:51 on Apr 12,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
 
-} {} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/bit_multiplier.vhd}
+} {} {}} {{C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 12:14:51 on Apr 12,2018
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity bit_multiplier
+-- Compiling architecture logical of bit_multiplier
+End time: 12:14:51 on Apr 12,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd} {1 {vcom -work work -2008 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/bit_multiplier.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -14,8 +30,10 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Compiling entity bit_multiplier
 -- Compiling architecture logical of bit_multiplier
 
-} {} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/exp(x).vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd}
+} {} {}} {{C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd}} {0 {vcom -work work -2002 -explicit {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 12:14:52 on Apr 12,2018
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd 
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
@@ -24,25 +42,58 @@ Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  
 -- Loading package NUMERIC_STD
 -- Compiling entity exp
 -- Compiling architecture main of exp
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd(24): (vcom-1581) No feasible entries for infix operator '/'.
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd(24): Type error resolving infix expression "/" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd(25): Type error resolving infix expression "/" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\exp(x).vhd(41): near "main": (vcom-1576) expecting PROCESS.
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd(24): (vcom-1581) No feasible entries for infix operator '/'.
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd(24): Type error resolving infix expression "/" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/exp(x).vhd(41): near "main": (vcom-1576) expecting PROCESS.
+End time: 12:14:52 on Apr 12,2018, Elapsed time: 0:00:00
+Errors: 3, Warnings: 0
 
-} {11.0 15.0} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/expEngine.vhd} {0 {vcom -work work -2002 -explicit -stats=none {C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd}
+} {13.0 16.0} {}} {{C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd}} {0 {vcom -work work -2002 -explicit {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 12:14:52 on Apr 12,2018
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity expEng
+-- Compiling architecture behavior of expEng
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(43): near ")": syntax error
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(45): Statement cannot be labeled.
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(49): near ")": syntax error
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(60): Enumeration literal '0' is not of type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(62): near "end": (vcom-1576) expecting ';'.
+End time: 12:14:52 on Apr 12,2018, Elapsed time: 0:00:00
+Errors: 5, Warnings: 0
+
+} {10.0 15.0} {}} {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd} {0 {vcom -work work -2008 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
 -- Compiling entity expEng
 -- Compiling architecture behavior of expEng
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd(43): near ")": syntax error
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd(45): Statement cannot be labeled.
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd(49): near ")": syntax error
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd(60): Enumeration literal '0' is not of type ieee.std_logic_1164.STD_LOGIC_VECTOR.
-** Error: C:\Users\zjpah\Documents\GitHub\VHDLClass\Homework 5\expEngine.vhd(62): near "end": (vcom-1576) expecting ';'.
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(43): near ")": syntax error
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(45): Statement cannot be labeled.
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(49): near ")": syntax error
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(60): Enumeration literal '0' is not of type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/expEngine.vhd(62): near "end": (vcom-1576) expecting ';'.
 
-} {8.0 13.0} {}} {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5/counter_generic.vhd}
+} {8.0 13.0} {}} {{C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd}} {1 {vcom -work work -2002 -explicit {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd}
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 12:14:51 on Apr 12,2018
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity counter_generic
+-- Compiling architecture behavioral of counter_generic
+End time: 12:14:51 on Apr 12,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd} {1 {vcom -work work -2008 -explicit -stats=none {C:/Users/pahlza/Desktop/School Stuff/VHDLClass/Homework 5/counter_generic.vhd}
 Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
 -- Loading package STANDARD
 -- Loading package TEXTIO
