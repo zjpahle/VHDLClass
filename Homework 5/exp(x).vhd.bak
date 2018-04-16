@@ -37,7 +37,7 @@ process(clk) begin
 			when "1101" => data <= to_ufixed(0.07692307692308, data);
 			when "1110" => data <= to_ufixed(0.07142857142857, data);
 			when "1111" => data <= to_ufixed(0.06666666666667, data);
-			when others =>  data <= "0000000000000000";
+			when others => data <= "0000000000000000";
 		end case;
 	end if;
 end process;
