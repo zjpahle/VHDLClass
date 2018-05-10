@@ -19,7 +19,7 @@ architecture behavior of expEng is
 	signal reg2 	: ufixed(15 downto 0):= to_ufixed(0, 16);
 	signal regOut 	: ufixed(15 downto 0):= to_ufixed(0, 16);
 	signal data	: ufixed(15 downto 0):= to_ufixed(0, 16);
-	signal sum	: ufixed(16 downto 0):= to_ufixed(0, 16); 
+	signal sum	: ufixed(16 downto 0):= to_ufixed(0, 16);
 	signal addr	: std_logic_vector(3  downto 0):= "0001";
 	signal counter	: std_logic_vector(1  downto 0);
 
