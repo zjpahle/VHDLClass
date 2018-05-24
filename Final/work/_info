@@ -8,3 +8,261 @@ z2
 !i10f 100
 cModel Technology
 dC:/Users/zjpah/Documents/GitHub/VHDLClass/Homework 5
+Ebth
+Z0 w1526097133
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/zjpah/Documents/GitHub/VHDLClass/Final
+Z6 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2.vhd
+Z7 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2.vhd
+l0
+L6
+V3]l<Q7=LClNZdHUHmj1BE2
+!s100 ebW5?[0ihM0f<J42HND;M0
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1526097135
+!i10b 1
+Z10 !s108 1526097135.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2.vhd|
+Z12 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 3 bth 0 22 3]l<Q7=LClNZdHUHmj1BE2
+l44
+L15
+V`@gijKe=W9mJOd5O2=bS]0
+!s100 9JSB>CL1WOT;PO93i[o=b2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ebth_test
+Z15 w1526099122
+R1
+R2
+R3
+R4
+R5
+Z16 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2Test.vhd
+Z17 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2Test.vhd
+l0
+L5
+VGeZac1N9@MgE7^ZZDeV=E2
+!s100 Lk>>[2E^nI9oZYZ7]j]lT0
+R8
+32
+Z18 !s110 1526099124
+!i10b 1
+Z19 !s108 1526099124.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2Test.vhd|
+Z21 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2Test.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+Z22 DEx4 work 8 bth_test 0 22 GeZac1N9@MgE7^ZZDeV=E2
+l27
+L8
+VSQ4N^3dDA@_:T3UgbNc;O1
+!s100 zN;c?XRVe]Fo:zT7>4NQ11
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Ememory8bit
+Z23 w1526095477
+R1
+R2
+R3
+R4
+R5
+Z24 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit.vhd
+Z25 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit.vhd
+l0
+L5
+VOQo8LFXK?YaCK:[9kS_U02
+!s100 =V<AT>NfMhc0TGHDf5o<h0
+R8
+32
+Z26 !s110 1526095479
+!i10b 1
+Z27 !s108 1526095478.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit.vhd|
+Z29 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 10 memory8bit 0 22 OQo8LFXK?YaCK:[9kS_U02
+l17
+L13
+VKJNXzHinK_=lKo;G@;o_F1
+!s100 =M6<8eZJmFC@0Wm^5Kl_E0
+R8
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R13
+R14
+Ememory8bit_test
+Z30 w1523402237
+R1
+R2
+R3
+R4
+R5
+Z31 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit_test.vhd
+Z32 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit_test.vhd
+l0
+L5
+V0C=;?P9o4R^zOl=V:fKQN1
+!s100 OFI]hCkZ=oKa5:[]e;>Sf0
+R8
+32
+Z33 !s110 1526094666
+!i10b 1
+Z34 !s108 1526094666.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit_test.vhd|
+Z36 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit_test.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+DEx4 work 15 memory8bit_test 0 22 0C=;?P9o4R^zOl=V:fKQN1
+l23
+L8
+Va]=Gk49U?5Q1UkRZOQIbh0
+!s100 OdNSe[`=K<`g1H9eb;RHo3
+R8
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R13
+R14
+Ezerocounter8bit
+Z37 w1526094280
+R1
+R2
+R3
+R4
+R5
+Z38 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter.vhd
+Z39 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter.vhd
+l0
+L5
+Vg4^a8:Bz5=]hUP9;;8zE43
+!s100 CjmG^[ZGW:68F`f8@NgZi3
+R8
+32
+R33
+!i10b 1
+R34
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter.vhd|
+Z41 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 15 zerocounter8bit 0 22 g4^a8:Bz5=]hUP9;;8zE43
+l19
+L14
+VH`c84KA[kezJOiMHW7Fgn3
+!s100 ^<]26D^aWJG[WaB0SN;=S3
+R8
+32
+R33
+!i10b 1
+R34
+R40
+R41
+!i113 1
+R13
+R14
+Ezerocounter8bit_test
+R30
+R1
+R2
+R3
+R4
+R5
+Z42 8C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter_test.vhd
+Z43 FC:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter_test.vhd
+l0
+L5
+Vbf^jSo_>LleMIWC`:f[Xg0
+!s100 i7<d<njR4n^SiR[FGXd<@1
+R8
+32
+R33
+!i10b 1
+R34
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter_test.vhd|
+Z45 !s107 C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter_test.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+DEx4 work 20 zerocounter8bit_test 0 22 bf^jSo_>LleMIWC`:f[Xg0
+l29
+L8
+VOMY2V@Z?b::aOlV;NJPMQ2
+!s100 g]dcI9T:`e?FQJgWa>;1o1
+R8
+32
+R33
+!i10b 1
+R34
+R44
+R45
+!i113 1
+R13
+R14

@@ -1,1 +1,45 @@
+C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/memory8bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memory8bit
+-- Compiling architecture behavioral of memory8bit
 
+} {} {}} C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter.vhd {1 {vcom -work work -2002 -explicit C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+Start time: 20:11:06 on May 11,2018
+vcom -reportprogress 300 -work work -2002 -explicit C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/zeroCounter.vhd 
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity zerocounter8bit
+-- Compiling architecture behavioral of zerocounter8bit
+End time: 20:11:06 on May 11,2018, Elapsed time: 0:00:00
+Errors: 0, Warnings: 0
+
+} {} {}} C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2Test.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2Test.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity bth_test
+-- Compiling architecture test of bth_test
+
+} {} {}} C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/zjpah/Documents/GitHub/VHDLClass/Final/FinalProblem2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity bth
+-- Compiling architecture behavioral of bth
+
+} {} {}}

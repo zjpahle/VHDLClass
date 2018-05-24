@@ -18,16 +18,7 @@ begin
 	process
 		variable memory : mem (0 TO memsize-1, dataout'RANGE) :=  (others =>"00000000");
 		begin
-	-- insert memory value for test bench to find--
-		memory(4,7) := '0';
-		memory(4,6) := '0';
-		memory(4,5) := '0';
-		memory(4,4) := '0';
-		memory(4,3) := '1';
-		memory(4,2) := '0';
-		memory(4,1) := '1';
-		memory(4,0) := '0';
-	-----------------------------------------------
+
 		for i in dataout'range loop
 			dataout(i) <= memory(conv_integer(addr),i);
 		end loop;
